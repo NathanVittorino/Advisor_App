@@ -14,3 +14,7 @@ data filtering and much more.
 - React
 - Javascript
 - Tailwind
+- RapidAPI
+- Travel Advisor API
+- Open Weather API
+- Material UI
